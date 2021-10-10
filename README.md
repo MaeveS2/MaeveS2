@@ -4,6 +4,15 @@
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+## 🌃 I'm currently working on
+
+- A discord bot
+
+## 🌱 I'm currently learning
+
+- More Java B)
+- Discord API
+
 <!---
 MaeveS2/MaeveS2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
