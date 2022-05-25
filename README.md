@@ -18,13 +18,21 @@
 
 <div align="center">
   
+## 🚎 About me
+  
+</div>
+
+- I use arch btw
+- `git commit -m "minor changes"`
+
+<div align="center">
+  
 ## 🌃 I'm currently working on
   
 </div>
 
 
 - Useless projects no one asked for
-- I use arch btw
 
 <div align = "center">
   
