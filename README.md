@@ -1,14 +1,19 @@
 <div align="center">
 
-[![Cope](https://i.imgur.com/NRtTLRI.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
-[![false](https://i.imgur.com/4Wt7z6m.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)]()
+[![forthebadge](https://i.imgur.com/4Wt7z6m.png)](https://bigrat.monster)
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)]((https://bigrat.monster))
+
 <br>
 
 ## 🧰 Languages and Tools:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+<br>
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 </div>
 
 <div align="center">
@@ -18,7 +23,8 @@
 </div>
 
 
-- Uhh nothing really
+- Useless projects no one asked for
+- I use arch btw
 
 <div align = "center">
   
@@ -27,9 +33,9 @@
 </div>
 
 - More Java (sometimes)
-- Discord API (maybe)
-- Microservice architecture (eventually)
-- Rust
+- Spring Boot
+- Kotlin, Rust
+- Designing frontends (feast your eyes on it)
 
 <div align="center">
 
