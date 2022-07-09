@@ -23,7 +23,7 @@
 </div>
 
 - I use arch btw
-- `git commit -m "minor changes"`
+- I don't know how to use git 
 
 <div align="center">
   
@@ -42,7 +42,7 @@
 
 - More Java (sometimes)
 - Spring Boot
-- Kotlin, Rust
+- Kotlin, Rust (maybe)
 - Designing frontends (feast your eyes on it)
 
 <div align="center">
