@@ -14,6 +14,8 @@
 <br>
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<br>
+![C uwu](https://cdn.discordapp.com/emojis/869893194756800512.webp?size=96&quality=lossless)
 </div>
 
 <div align="center">
