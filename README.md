@@ -50,6 +50,14 @@
 
 <div align="center">
 
+<div align = "center">
+  
+## ☎️ Contact
+  
+</div>
+
+- Don't contact me
+
 ## 📉 My stats
 
 ![Maeve's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaeveS2&show_icons=true&theme=tokyonight)
