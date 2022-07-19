@@ -48,8 +48,6 @@
 - Kotlin, Rust (maybe)
 - Designing frontends (feast your eyes on it)
 
-<div align="center">
-
 <div align = "center">
   
 ## ☎️ Contact
@@ -57,6 +55,8 @@
 </div>
 
 - Don't contact me
+
+<div align="center">
 
 ## 📉 My stats
 
